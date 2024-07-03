@@ -1,5 +1,6 @@
-## Hi there 👋
-hello
+## Hi there 
+<img src="https://github.com/DsLaysonJr/DsLaysonJr/blob/main/BannerIntro.gif">
+
 <!--
 **DsLaysonJr/DsLaysonJr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
