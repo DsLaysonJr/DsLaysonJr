@@ -17,7 +17,8 @@ I'm a <b>3rd year Computer Science student</b> from <b>Pamantasan ng Lungsod ng 
 </b>
 </ul>
 
-## 🔗 Links
+<h2>Links <img height=30 width=30 src="https://github.com/DsLaysonJr/DsLaysonJr/blob/main/star.gif"></h2>
+
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://dennislaysonjr.vercel.app/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dennis-layson-jr-462850308/)
 [![twitter](https://img.shields.io/badge/facebook-1877F2?style=for-the-badge&logo=facebookr&logoColor=white)](https://www.facebook.com/dennis.rambunctious)
